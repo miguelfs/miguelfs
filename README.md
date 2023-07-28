@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @miguelfs
 - 👀 I’m interested in audio, recsys and MIR
+- ⛏️ I'm currently working with Flutter and go programming, at Indaband.
 - 🌱 I’m currently learning recsys
 - 💞️ I’m looking to collaborate on any library my projects depend on :)
 - 📫 How to reach me: mfsousa@poli.ufrj.br
